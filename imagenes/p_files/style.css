@@ -1,0 +1,48 @@
+/* TITULOS - SUBTITULO - FONDO - BORDES */
+
+body { background: url(../img_new/fondo-IEC.1.jpg) no-repeat 0px 0px;}/*bg_ulagos_home_3.jpg*/
+
+.borde_izq { color:#FFF; width:2px; background-color:#FFF; }
+.borde_der { color:#FFF; width:2px; background-color:#FFF; }
+.borde_inf { background-color:#FFF; width:2px; color:#FFF; }
+
+.azul_izq { background-color:#FFF; width:2px; }
+.azul_der { background-color:#FFF; width:2px; }
+
+.titulo { font-size:14px; font-family:Arial, Helvetica, sans-serif; font-weight: bold; color:#000; }
+.subtitulo { font-size:13px; font-family:Arial, Helvetica, sans-serif; color:#020202; font-weight: bold; }
+
+.titulo_noticia { font-size:11px; font-family:Arial, Helvetica, sans-serif; color:#2d74c0; text-decoration:none; }
+.fecha_noticia { font-size:12px; font-family:Arial, Helvetica, sans-serif; color:#fff; font-weight:bold; width:120px; background-color:#CCC; text-align:center; }
+.fecha_noticia02 { font-size:12px; font-family:Arial, Helvetica, sans-serif; color:#242423; font-weight:bold; width:150px; background-color:#CCC; text-align:center; }
+.fecha_noticia03 { font-size:11px; font-family:Arial, Helvetica, sans-serif; color:#fff; font-weight:bold; width:120px; background-color:#005aba; text-align:center; }
+
+.noticia { font-size:14px; font-family:Arial, Helvetica, sans-serif; font-weight: bold; color:#aeadac; }
+
+.normal { font-size:11px; font-family:Arial, Helvetica, sans-serif; color:#020202; text-decoration:none; text-align:left; }
+
+/* FIN TITULOS - SUBTITULO - FONDO - BORDES */
+
+/* OTROS CSS */
+.menu_superior  { color: #4c4c4c; font-size: 11px; font-family: Arial, Helvetica, sans-serif; text-decoration:none;text-align:center;border-right:0px solid #4c4c4c;}
+
+a.link_sup { color:#4c4c4c; font-size:11px; font-family:Arial, Helvetica, sans-serif; text-decoration:none;display:inline-block;border:0px solid red;z-index:2;  }
+a.link_sup:hover { color:#2d74c0; text-decoration:none; }
+.separate,.separate2{border-right:1px solid #4c4c4c;}
+.separate2{border-left:1px solid #4c4c4c;}
+.menu { background-color: #005aba; color:#FFF; font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-decoration:none; }
+.submenu { color:#FFF; font-size: 11px; font-family: Arial, Helvetica, sans-serif; text-decoration:none; text-align:justify; }
+
+.texto { color:#2d2c2b; font-size: 11px; font-family: Arial, Helvetica, sans-serif; text-decoration:none; padding:0px 0px 0px 10px; }
+
+.buscar { border:1px #a6a6a6 solid; background-color: #f6f6f6; height:23px; color:#000; font-size:11px; font-family:Arial, Helvetica, sans-serif; width:200px; }
+
+.campo { border:1px #c0bebe solid; background-color: #666665; height:18px; color:#fff; font-size:11px; font-family:Arial, Helvetica, sans-serif; width:200px; }
+.boton { border:1px #c0bebe solid; background-color: #666665; color:#fff; font-size:11px; font-family:Arial, Helvetica, sans-serif; }
+
+a.link { color: #4c4c4c; font-size: 11px; font-family: Arial, Helvetica, sans-serif;}
+a.link:hover { color:#2d74c0; text-decoration:none; }
+
+.registro { color: #ffffff; font-size: 11px; font-family: Arial, Helvetica, sans-serif; }
+
+/* FIN OTROS */
